@@ -86,6 +86,14 @@ Flutter Developer
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
 
+https://github.com/user-attachments/assets/e9989c11-d45a-416c-bcfa-1ed567323367
+//video
+
+
+https://github.com/user-attachments/assets/5ecaced0-0f01-41e2-b9c1-4fd59b4253db
+
+
+
 
 
 # kobi_finance
@@ -102,5 +110,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
+
+
+
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
